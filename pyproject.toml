@@ -23,5 +23,5 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/chrismcmacken/example_library"
 
-[project.dependencies]
+#[project.dependencies]
 # No dependencies specified
